@@ -1,7 +1,8 @@
 # Neural_Network_Charity_Analysis
 
 ## Overview of the analysis: Explain 
-Explain the purpose of this analysis.
+
+Given a csv file containing more than 34,000 organizations that have received funding from Alphabet Soup, I built a neural network capable of predicting whether applicants will be successful if funded by Alphabet Soup. This model uses python's TensorFlow library to create, train, and evaluate data gathered from previous loans.
 
 ## Results: 
 Using bulleted lists and images to support your answers, address the following questions.
